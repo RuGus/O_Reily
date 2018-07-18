@@ -5,6 +5,6 @@ class IfTest{
 		System.out.println ("X must be "+x);
 	}
 	System.out.println("Xa-xa-xa");
-	//System.out.println("Add new row");
+	System.out.println("Add new row");
 	}
 }
